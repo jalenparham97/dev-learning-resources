@@ -72,6 +72,17 @@
 #### Free resources
 - [Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours](https://www.youtube.com/watch?v=f2EqECiTBL8&t=5889s) - This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB.
 
+- [Node.js App From Scratch | Express, MongoDB & Google OAuth](https://www.youtube.com/watch?v=SBvmnHTQIPY) - This is a full application build of the StoryBooks app which uses Node.js, Express, MongoDB, Passport with a Google OAuth strategy and more.
+
+- [Build a REST API with Node.js, Express, TypeScript, MongoDB & Zod](https://www.youtube.com/watch?v=BWUi6BS9T5Y) - 
+  📚 Concepts & technologies covered
+  - REST APIs
+  - JWTs & refresh tokens
+  - Node.js
+  - TypeScript
+  - MongoDB with Mongoose
+  - Request validation
+
 #### Paid resources
 - [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) - Learn Node.js by building real-world applications with Node JS, Express, MongoDB, Jest, and more!
 

@@ -97,12 +97,16 @@
 
 #### Free resources
 #### Paid resources
+- [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) - Updated! Become a Senior React Developer. Build a massive E-commerce app with Redux, Hooks, GraphQL, Stripe, Firebase
+
+- [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/) - Expand your portfolio of projects by building a complex app with the latest web technologies.
 
 
 ## Backend Frameworks
 
 #### Free resources
 #### Paid resources
+
 
 
 ## Testing

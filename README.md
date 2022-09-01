@@ -70,7 +70,9 @@
 ## Node JS
 
 #### Free resources
-- [Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours](https://www.youtube.com/watch?v=f2EqECiTBL8&t=5889s) - This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB.
+- [RESTful API using Node JS, MongoDB & Typescript IN-DEPTH [2022]](https://www.youtube.com/watch?v=72_5_YuDCNA&t=1832s) - Here is an in depth look at how to create a fully functional RESTful API with mongoose, typescript based in Node JS.
+
+- [Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours](https://www.youtube.com/watch?v=f2EqECiTBL8&t=5889s) - This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB.  
 
 - [Node.js App From Scratch | Express, MongoDB & Google OAuth](https://www.youtube.com/watch?v=SBvmnHTQIPY) - This is a full application build of the StoryBooks app which uses Node.js, Express, MongoDB, Passport with a Google OAuth strategy and more.
 
